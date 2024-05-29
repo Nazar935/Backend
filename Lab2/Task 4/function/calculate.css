@@ -1,0 +1,20 @@
+table,
+td {
+    border: solid black;
+    border-width: 3px;
+}
+
+td {
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr:first-child > td {
+    background-color: yellow;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}

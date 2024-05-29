@@ -1,0 +1,23 @@
+body {
+    font-size: xx-large;
+}
+
+div {
+    margin-left: 5px;
+}
+
+div+div {
+    margin-left: 15px;
+}
+
+div+div+div {
+    margin-left: 25px;
+}
+
+div+div+div+div {
+    margin-left: 35px;
+}
+
+div+div+div+div+div {
+    margin-left: 45px;
+}

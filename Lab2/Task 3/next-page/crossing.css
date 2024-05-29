@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    color: gray;
+}
+
+tr > td:first-child {
+    width: 110px;
+}
+
+tr > td:nth-child(2) {
+    width: 300px;
+}
+
+p {
+    margin: 0px;
+}
+
+.up {
+    display: flex;
+}
