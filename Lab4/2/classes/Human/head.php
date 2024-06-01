@@ -1,9 +1,6 @@
 <?php
 
-/**
- * Цей класс є прикладом використання функції spl_autoload_register
- * Цей класс описує структуру голови
- */
+
 namespace Human;
 class Head{
     public $brain = "think";
